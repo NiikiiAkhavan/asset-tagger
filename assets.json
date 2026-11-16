@@ -1,0 +1,314 @@
+{
+  "banner.png": {
+    "description": "A red fabric banner hanging from a wooden rod.",
+    "category": "prop",
+    "tags": [
+      "banner",
+      "red",
+      "cloth",
+      "wooden",
+      "hanging"
+    ]
+  },
+  "barrel.png": {
+    "description": "A wooden barrel reinforced with blue metal bands.",
+    "category": "prop",
+    "tags": [
+      "barrel",
+      "wooden",
+      "storage",
+      "container"
+    ]
+  },
+  "chair.png": {
+    "description": "A simple brown wooden chair with a short backrest.",
+    "category": "prop",
+    "tags": [
+      "chair",
+      "wooden",
+      "brown",
+      "furniture"
+    ]
+  },
+  "character-human.png": {
+    "description": "A blocky human figure with brown hair and blue clothing.",
+    "category": "character",
+    "tags": [
+      "human",
+      "blocky",
+      "brown-hair",
+      "blue-clothing"
+    ]
+  },
+  "character-orc.png": {
+    "description": "A green orc warrior with dark hair and angry expression.",
+    "category": "character",
+    "tags": [
+      "orc",
+      "green",
+      "warrior",
+      "monster"
+    ]
+  },
+  "chest.png": {
+    "description": "A closed wooden storage chest with blue metal reinforcements.",
+    "category": "prop",
+    "tags": [
+      "chest",
+      "wooden",
+      "storage",
+      "blue",
+      "container"
+    ]
+  },
+  "coin.png": {
+    "description": "A single golden coin with a raised central marking.",
+    "category": "item",
+    "tags": [
+      "coin",
+      "gold",
+      "money",
+      "currency",
+      "treasure"
+    ]
+  },
+  "column.png": {
+    "description": "A vertical stone column with a simple block design.",
+    "category": "prop",
+    "tags": [
+      "column",
+      "stone",
+      "grey",
+      "pillar",
+      "architecture"
+    ]
+  },
+  "dirt.png": {
+    "description": "A dark block representing a piece of dirt.",
+    "category": "floor",
+    "tags": [
+      "dirt",
+      "block",
+      "dark",
+      "ground"
+    ]
+  },
+  "floor-detail.png": {
+    "description": "A grey stone floor tile decorated with small square engravings and details.",
+    "category": "floor",
+    "tags": [
+      "floor",
+      "stone",
+      "grey",
+      "tile"
+    ]
+  },
+  "floor.png": {
+    "description": "A square grey tile used for building level layouts.",
+    "category": "floor",
+    "tags": [
+      "floor",
+      "grey",
+      "tile",
+      "square"
+    ]
+  },
+  "key.png": {
+    "description": "A small golden key used for unlocking doors and chests.",
+    "category": "item",
+    "tags": [
+      "key",
+      "gold",
+      "metal",
+      "unlock"
+    ]
+  },
+  "pot.png": {
+    "description": "A small terracotta pot with a blue stripe and two side handles.",
+    "category": "prop",
+    "tags": [
+      "pot",
+      "clay",
+      "ceramic",
+      "blue-stripe",
+      "container"
+    ]
+  },
+  "potion.png": {
+    "description": "A small glass potion bottle filled with red liquid and sealed with a cork.",
+    "category": "item",
+    "tags": [
+      "potion",
+      "glass",
+      "red",
+      "cork",
+      "medicine"
+    ]
+  },
+  "rocks.png": {
+    "description": "A small cluster of grey rocks forms a solid natural obstacle.",
+    "category": "prop",
+    "tags": [
+      "rocks",
+      "grey",
+      "stone",
+      "boulder"
+    ]
+  },
+  "shield-rectangle.png": {
+    "description": "A curved rectangular shield with blue trim and a central spike.",
+    "category": "item",
+    "tags": [
+      "shield",
+      "rectangular",
+      "metal",
+      "blue",
+      "orange"
+    ]
+  },
+  "shield-round.png": {
+    "description": "A round blue and red shield designed for defense.",
+    "category": "item",
+    "tags": [
+      "shield",
+      "round",
+      "blue",
+      "red",
+      "defense"
+    ]
+  },
+  "stairs.png": {
+    "description": "A set of purple stone stairs for climbing levels.",
+    "category": "prop",
+    "tags": [
+      "stairs",
+      "stone",
+      "purple",
+      "steps"
+    ]
+  },
+  "stones.png": {
+    "description": "A small cluster of grey stones sits on the ground.",
+    "category": "prop",
+    "tags": [
+      "stones",
+      "grey",
+      "rock",
+      "nature"
+    ]
+  },
+  "table.png": {
+    "description": "A small wooden table with four short legs.",
+    "category": "prop",
+    "tags": [
+      "table",
+      "wooden",
+      "brown",
+      "furniture"
+    ]
+  },
+  "trap.png": {
+    "description": "A set of four pointy purple spikes emerging from round stone bases.",
+    "category": "prop",
+    "tags": [
+      "trap",
+      "spike",
+      "purple",
+      "stone",
+      "hazard"
+    ]
+  },
+  "wall-half.png": {
+    "description": "A short dark grey wall block with light blue trim.",
+    "category": "wall",
+    "tags": [
+      "wall",
+      "half",
+      "dark-grey",
+      "light-blue",
+      "barrier"
+    ]
+  },
+  "wall-narrow.png": {
+    "description": "A narrow stone wall section with blue accents and a dark textured top.",
+    "category": "wall",
+    "tags": [
+      "wall",
+      "narrow",
+      "stone",
+      "blue"
+    ]
+  },
+  "wall-opening.png": {
+    "description": "A stone wall piece with a dark, open archway passage.",
+    "category": "wall",
+    "tags": [
+      "wall-opening",
+      "stone",
+      "blue",
+      "archway"
+    ]
+  },
+  "wall.png": {
+    "description": "A square stone pillar with light blue framing and dark blue panels.",
+    "category": "wall",
+    "tags": [
+      "wall",
+      "stone",
+      "blue",
+      "pillar"
+    ]
+  },
+  "weapon-spear.png": {
+    "description": "A sharp spear head with a blue blade and brown wooden shaft.",
+    "category": "item",
+    "tags": [
+      "spear",
+      "weapon",
+      "blue",
+      "brown",
+      "metal"
+    ]
+  },
+  "weapon-sword.png": {
+    "description": "A short blue sword with a brown hilt stands upright.",
+    "category": "item",
+    "tags": [
+      "sword",
+      "weapon",
+      "blue",
+      "metal"
+    ]
+  },
+  "wood-structure.png": {
+    "description": "A square wooden structure with four vertical posts and connected beams.",
+    "category": "prop",
+    "tags": [
+      "structure",
+      "wood",
+      "brown",
+      "frame"
+    ]
+  },
+  "wood-support.png": {
+    "description": "A sturdy wooden support structure made of brown beams.",
+    "category": "prop",
+    "tags": [
+      "wood-support",
+      "wooden",
+      "brown",
+      "beam",
+      "structure"
+    ]
+  },
+  "gate.png": {
+    "description": "A sturdy wooden gate with a metallic frame.",
+    "category": "wall",
+    "tags": [
+      "gate",
+      "wooden",
+      "blue",
+      "entrance"
+    ]
+  }
+}

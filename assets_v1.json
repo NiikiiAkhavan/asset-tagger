@@ -1,0 +1,331 @@
+{
+  "banner.png": {
+    "description": "A red hanging banner on a wooden rod.",
+    "category": "prop",
+    "tags": [
+      "banner",
+      "flag",
+      "red",
+      "wall",
+      "decoration"
+    ]
+  },
+  "barrel.png": {
+    "description": "A low-poly 3D model of a barrel with blue bands.",
+    "category": "prop",
+    "tags": [
+      "barrel",
+      "container",
+      "storage",
+      "low-poly",
+      "prop"
+    ]
+  },
+  "chair.png": {
+    "description": "A simple low-poly armchair in brown tones.",
+    "category": "prop",
+    "tags": [
+      "chair",
+      "furniture",
+      "seat",
+      "brown",
+      "low-poly"
+    ]
+  },
+  "character-human.png": {
+    "description": "A voxel-style male character waving with one arm raised.",
+    "category": "character",
+    "tags": [
+      "character",
+      "male",
+      "human",
+      "voxel",
+      "waving"
+    ]
+  },
+  "character-orc.png": {
+    "description": "a voxel style green monster or goblin character",
+    "category": "character",
+    "tags": [
+      "monster",
+      "voxel",
+      "green",
+      "goblin",
+      "enemy"
+    ]
+  },
+  "chest.png": {
+    "description": "A closed wooden treasure chest with blue metallic reinforcements.",
+    "category": "prop",
+    "tags": [
+      "chest",
+      "treasure",
+      "storage",
+      "container",
+      "isometric"
+    ]
+  },
+  "coin.png": {
+    "description": "A shiny golden coin used as currency in games.",
+    "category": "item",
+    "tags": [
+      "coin",
+      "gold",
+      "currency",
+      "money",
+      "collectible"
+    ]
+  },
+  "column.png": {
+    "description": "A short blue stone pillar for architectural decoration.",
+    "category": "prop",
+    "tags": [
+      "pillar",
+      "stone",
+      "blue",
+      "architectural",
+      "prop"
+    ]
+  },
+  "dirt.png": {
+    "description": "A dark solid block rendered in an isometric perspective.",
+    "category": "wall",
+    "tags": [
+      "block",
+      "cube",
+      "dark",
+      "wall",
+      "solid"
+    ]
+  },
+  "floor-detail.png": {
+    "description": "A flat blue floor tile with scattered debris.",
+    "category": "floor",
+    "tags": [
+      "floor",
+      "tile",
+      "blue",
+      "sci-fi",
+      "ground"
+    ]
+  },
+  "floor.png": {
+    "description": "A simple isometric grey floor tile.",
+    "category": "floor",
+    "tags": [
+      "floor",
+      "tile",
+      "grey",
+      "isometric"
+    ]
+  },
+  "gate.png": {
+    "description": "A sturdy isometric wooden door with metal reinforcement.",
+    "category": "wall",
+    "tags": [
+      "door",
+      "wood",
+      "isometric",
+      "barrier",
+      "gateway"
+    ]
+  },
+  "key.png": {
+    "description": "A classic golden key used for unlocking doors.",
+    "category": "item",
+    "tags": [
+      "key",
+      "gold",
+      "unlock",
+      "door",
+      "metal"
+    ]
+  },
+  "pot.png": {
+    "description": "A low-poly clay pot with handles and a blue stripe.",
+    "category": "prop",
+    "tags": [
+      "pot",
+      "clay",
+      "container",
+      "ceramic",
+      "vase"
+    ]
+  },
+  "potion.png": {
+    "description": "A small red potion bottle with a cork stopper.",
+    "category": "item",
+    "tags": [
+      "potion",
+      "red",
+      "bottle",
+      "item",
+      "health"
+    ]
+  },
+  "rocks.png": {
+    "description": "A square stone floor tile with rough, organic edges.",
+    "category": "floor",
+    "tags": [
+      "stone",
+      "floor",
+      "tile",
+      "rock",
+      "isometric"
+    ]
+  },
+  "shield-rectangle.png": {
+    "description": "A curved wall segment with metallic reinforcement.",
+    "category": "wall",
+    "tags": [
+      "curved",
+      "barrier",
+      "scifi",
+      "metal",
+      "structure"
+    ]
+  },
+  "shield-round.png": {
+    "description": "a small round blue and red shield",
+    "category": "item",
+    "tags": [
+      "shield",
+      "defense",
+      "armor",
+      "equipment",
+      "round"
+    ]
+  },
+  "stairs.png": {
+    "description": "A set of grey stone stairs for ascending between levels.",
+    "category": "prop",
+    "tags": [
+      "stairs",
+      "stone",
+      "isometric",
+      "grey",
+      "steps"
+    ]
+  },
+  "table.png": {
+    "description": "A small wooden low table with short legs.",
+    "category": "prop",
+    "tags": [
+      "table",
+      "furniture",
+      "wood",
+      "low",
+      "prop"
+    ]
+  },
+  "trap.png": {
+    "description": "a set of four small conical purple spikes or crystals",
+    "category": "prop",
+    "tags": [
+      "spikes",
+      "crystals",
+      "hazard",
+      "purple",
+      "trap"
+    ]
+  },
+  "wall-half.png": {
+    "description": "A dark blocky sci-fi console or storage unit with blue trim.",
+    "category": "prop",
+    "tags": [
+      "sci-fi",
+      "console",
+      "terminal",
+      "storage",
+      "block"
+    ]
+  },
+  "wall-narrow.png": {
+    "description": "A dark futuristic wall block with glowing blue trim.",
+    "category": "wall",
+    "tags": [
+      "wall",
+      "sci-fi",
+      "futuristic",
+      "block",
+      "structure"
+    ]
+  },
+  "wall-opening.png": {
+    "description": "A short futuristic conveyor belt segment in an isometric view.",
+    "category": "prop",
+    "tags": [
+      "conveyor",
+      "belt",
+      "sci-fi",
+      "machinery",
+      "factory"
+    ]
+  },
+  "wall.png": {
+    "description": "A tall isometric stone pillar block.",
+    "category": "wall",
+    "tags": [
+      "pillar",
+      "stone",
+      "isometric",
+      "block",
+      "column"
+    ]
+  },
+  "weapon-spear.png": {
+    "description": "A simple magical wand or crystal staff with a purple top.",
+    "category": "item",
+    "tags": [
+      "wand",
+      "staff",
+      "magic",
+      "weapon",
+      "crystal"
+    ]
+  },
+  "weapon-sword.png": {
+    "description": "A low-poly 3D model of a short blue sword.",
+    "category": "item",
+    "tags": [
+      "sword",
+      "weapon",
+      "blade",
+      "isometric",
+      "item"
+    ]
+  },
+  "wood-structure.png": {
+    "description": "A square wooden frame structure suitable for scaffolding or supports.",
+    "category": "prop",
+    "tags": [
+      "wood",
+      "structure",
+      "scaffolding",
+      "support",
+      "isometric"
+    ]
+  },
+  "wood-support.png": {
+    "description": "A low wooden fence section in an isometric view.",
+    "category": "wall",
+    "tags": [
+      "fence",
+      "wood",
+      "barrier",
+      "isometric",
+      "prop"
+    ]
+  },
+  "stones.png": {
+    "description": "A small cluster of grey rocks for outdoor environments.",
+    "category": "prop",
+    "tags": [
+      "rock",
+      "stone",
+      "boulder",
+      "nature",
+      "environment"
+    ]
+  }
+}
